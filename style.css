@@ -1,0 +1,289 @@
+.heading {
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.carousel_spacing {
+    margin-bottom: 15px;
+}
+
+.map_spacing {
+    margin-bottom: 15px;
+}
+
+.purchase_button {
+    background-color: black;
+    color: white;
+    margin-bottom: 15px;
+    height: 30px;
+    width: 150px;
+    font-family: 'Bebas Neue', cursive;
+    border-radius: 25px;
+}
+
+.back_button {
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    height: 30px;
+    width: 70px;
+    font-family: 'Bebas Neue', cursive;
+    border-radius: 25px;
+    float: left;
+    margin-top: 5px;
+}
+
+.img1 {
+    height: 250px;
+    width: 250px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+
+}
+
+.jordan {
+    float: left;
+}
+
+body {
+    background: linear-gradient(#FEFEFE 0%, #ECECEC 20%, #D8D8D8 40%, #CBCBCB 60%, #B8B8B8 80%, #9E9E9E 100%)
+}
+
+.learn_more {
+    text-align: right;
+    margin-right: 15px;
+}
+
+.img2 {
+    height: 350px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.mens_wear {
+    float: right;
+}
+
+.learn_more2 {
+    text-align: left;
+    margin-left: 15px;
+}
+
+.img3 {
+    height: 350px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+
+.womens_wear {
+    float: left;
+}
+
+.img4 {
+    height: 350px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.kids_wear {
+    float: right;
+}
+
+.maps_location {
+    margin-bottom: 15px;
+}
+
+.view_products {
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: fit-content;
+    border-radius: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.jordan_product1{
+    height: 350px;
+    margin-left: 30px;
+    margin-bottom: 60px;
+    margin-right: 90px;
+    border-radius: 15px;
+}
+
+.jordan_product2{
+    height: 350px;
+    margin-right: 30px;
+    margin-bottom: 60px;
+    margin-left: 90px;
+    border-radius: 15px;
+
+}
+
+.jordan_product4{
+    height: 350px;
+    margin-right: 30px;
+    margin-bottom: 60px;
+    margin-left: 90px;
+    border-radius: 15px;
+}
+
+.jordan_product3{
+    height: 350px;
+    margin-right: 90px;
+    margin-bottom: 60px;
+    border-radius: 15px;
+}
+
+.jordan_1{
+    float: left;
+    margin-left: 320px;
+}
+
+.jordan_4{
+    float: right;
+    margin-right: 280px;
+}
+
+.jordan_2{
+    margin-right: 10px;
+}
+
+.mens_1{
+    height: 435px;
+    border-radius: 15px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 60px;
+}
+
+.sweatshirt{
+    float: left;
+    margin-left: 310px;
+}
+
+.sweatpant{
+    margin-right: 110px;
+}
+
+.joggers{
+    float: right;
+    margin-right: 280px;
+}
+
+.womens_1{
+    height: 435px;
+    border-radius: 15px;
+    margin-left: 70px;
+    margin-right: 110px;
+    margin-bottom: 60px;
+}
+
+.womens_top{
+    float: left;
+    margin-left: 260px;
+}
+
+.womens_jacket{
+    margin-right: 100px;
+}
+
+.kids_1{
+    height: 435px;
+    border-radius: 15px;
+    margin-left: 70px;
+    margin-right: 110px;
+    margin-bottom: 60px;
+}
+
+.sweatshirt_grey{
+    float: left;
+    margin-left: 160px;
+}
+
+.jacket_kids{
+    margin-right: 120px;
+}
+
+.heading1 {
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.heading2{
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 15px;
+    float: right;
+}
+
+.unique_font{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.jd1{
+    height: 400px;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 60px;
+    margin-left: 60px;
+    float: left;
+}
+
+.logo{
+    float: right;
+}
+
+.unordered_list{
+    float: left;
+    margin-left: 225px;
+}
+
+.unordered_list1{
+    float: right;
+    margin-right: 275px;
+}
+
+.unordered_list2{
+    float: left;
+    margin-left: 100px;
+}
+
+.unordered_list3{
+    float: right;
+    margin-right: 200px;
+}
+
+.curve{
+    border-radius: 15px;
+}
+
+.more_items_image{
+    height: 300px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.btn_btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 25px;
+    color: white;
+    background-color: black;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.more_items_image1{
+    height: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
